@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "Cite this supplementary collection when using its review tables or documentation. Attribute third-party panels to their source works as listed in the figure guide."
+title: "Supplementary materials for MXene–Hydrogel Microsupercapacitors and Microbatteries for Reliable Wearable Power"
+type: dataset
+authors:
+  - family-names: Ashraf
+    given-names: Muhammad Awais
+    affiliation: University of Saskatchewan
+  - family-names: Wong
+    given-names: Kelvin K. L.
+    affiliation: University of Saskatchewan
+  - family-names: Javed
+    given-names: Muhammad Sufyan
+    affiliation: Zhejiang Wanli University
+  - family-names: Zhang
+    given-names: W. J. Chris
+    affiliation: University of Saskatchewan
+repository-code: "https://github.com/mawaisashraf3/Advanced-Science--2026"
